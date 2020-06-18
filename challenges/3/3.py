@@ -9,7 +9,7 @@ def is_prime(n):
 def prime_list(n):
     # create list of primes up to value n
     prime_list = []
-    for i in range(n):
+    for i in range(2, n + 1):
         if is_prime(i):
             prime_list.append(i)
     return prime_list
@@ -20,7 +20,7 @@ def prime_factor(n, pl):
     prime_nums = prime_list(pl)
 
     # return largest prime factor by returning
-    # 1st value in a reversed list
+    # 1st factor in a reversed list of primes
     for i in reversed(prime_nums):
         if n % i == 0:
             return i

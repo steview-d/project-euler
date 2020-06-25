@@ -8,8 +8,6 @@ From the [Project Euler](https://projecteuler.net/) main page -
 > arrive at elegant and efficient methods, the use of a computer and programming skills will be
 > required to solve most problems.
 
----
-
 Only intend to work on these in between other projects / learning different things and will stop when bored, or I find something else.
 
 Aiming to complete each challenge using Python, and maybe also JavaScript.

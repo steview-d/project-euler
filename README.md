@@ -9,7 +9,7 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 Only intend to work on these in between other projects / learning different things and will stop when bored, or I find something else.
 
-Aiming to complete each challenge using both Python & Javascript.
+Aiming to complete each challenge using Python, and maybe also JavaScript.
 
 Challenges are separated into folders, one folder per challenge, and named in numerical order to match the challenge.
 
